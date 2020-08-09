@@ -1,0 +1,11 @@
+* README
+** "bot-that-screams-in-pain" my @michaeljcalkins
+
+As he puts it: *A discord bot that randomly screams in pain.*
+
+
+* Journal
+** 2020
+*** 20W32
+**** Saturday (2020-08-08)
+I saw that Michael created this to possibly creat a bot for electowiki. That'd be kinda awesome if he pulls it off.
